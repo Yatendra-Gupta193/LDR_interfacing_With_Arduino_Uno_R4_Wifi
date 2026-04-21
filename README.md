@@ -7,7 +7,7 @@ This is a simple *IoT experiment* to interface an *LDR (Light Dependent Resistor
 ## Project Description
 
 In this project, an *LDR sensor* is used to measure the *light intensity*.  
-The Arduino reads the analog value from the LDR and displays it on the *Serial Monitor*.
+The Arduino reads the analog value from the LDR and displays it on the *Serial Monitor*. 
 
 This experiment helps beginners understand:
 - Analog input
