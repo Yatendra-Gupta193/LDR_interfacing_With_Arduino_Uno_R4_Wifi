@@ -1,5 +1,8 @@
 # LDR Interfacing with Arduino Uno R4 WiFi
 
+![Platform](https://img.shields.io/badge/platform-Arduino-orange)
+![Language](https://img.shields.io/badge/language-C++-blue)
+
 This is a simple *IoT experiment* to interface an *LDR (Light Dependent Resistor)* with *Arduino Uno R4 WiFi*.
 
 ---
